@@ -1,3 +1,11 @@
+# Covid Tracker
+
+React States and components used in the website 
+The disease.sh  API  was used to track live information about the covid cases of different countries across the world.
+
+# TechStack:React.js,CSS,Bootstrap,Netlify,MaterialUI.
+
+
 In order to visit the webpage:
 Click on:  https://nervous-engelbart-59963c.netlify.app/
 
